@@ -1,1 +1,1 @@
-cpuについて考える
+risc-v emu tukuru
